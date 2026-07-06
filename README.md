@@ -66,6 +66,24 @@ Links via employee_id
 - Exchange rate: ₹83 per USD (fixed for 2023-2024 period)
 
 ---
+## SQL Analysis
+
+All business questions were answered using SQL in DB Browser for SQLite. 
+Queries involve JOINs across multiple tables, aggregations, CASE WHEN 
+classifications, window functions and subqueries.
+
+| Query | Business Question |
+|---|---|
+| Q1 | Which client has the highest total bench cost? |
+| Q2 | Which clients show best vs worst billing efficiency? |
+| Q3 | How does margin % differ across skill categories? |
+| Q4 | What % of bench cost is driven by internal vs client delays? |
+| Q5 | At which contract milestone do resignations peak? |
+| Q6 | How does USD billing margin compare to INR billing? |
+
+📄 [View all SQL queries](queries.sql)
+
+---
 ## Key Findings
 
 ### Q1 — Bench Cost by Client
