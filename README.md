@@ -17,8 +17,9 @@ and improve overall margin.
 ---
 ## About The Dataset
 This case study uses a synthetic dataset designed and authored by the 
-analyst based on 3+ years of hands-on PMO experience managing resource 
-deployment, billing trackers, and client SOWs in an IT staffing organisation.
+analyst based on 3.5+ years of hands-on Operations and HR experience managing 
+resource deployment, billing trackers, client SOWs and HR operations 
+in an IT staffing organisation.
 
 The dataset consists of 3 related tables:
 
