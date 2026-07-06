@@ -1,0 +1,7 @@
+delay_type,delay_reason,affected_employees,total_bench_cost
+Client Delay,Client BGV Delay,70,4326041.72
+Client Delay,Client Budget Hold,62,4179723.5
+Client Delay,Visa Processing,68,3941928.05
+Client Delay,Role Redefinition,57,2666696.99
+Internal Delay,Documentation Pending,58,3655829.56
+Internal Delay,Internal Approvals,47,2994022.7
