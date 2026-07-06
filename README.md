@@ -173,7 +173,7 @@ window functions, subqueries)
 - Data ethics — transparent disclosure of synthetic data usage
 
 **Connect with me:**
-🔗 [LinkedIn](www.linkedin.com/in/deepthisinghrathod)
+🔗 [LinkedIn](https://www.linkedin.com/in/deepthisinghrathod)
 🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/deepthi.singh.rathod/vizzes)
 🔗 [GitHub](https://github.com/Deepthi16-r)
 
