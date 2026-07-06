@@ -125,8 +125,8 @@ resignation timing patterns.
 🔗 [View Dashboard 2 on Tableau Public]
 (https://public.tableau.com/app/profile/deepthi.singh.rathod/viz/StaffingAnalyticsCaseStudy/PeopleOperations?publish=yes)
 
-![Dashboard 1 Preview](dashboard/dashboard1_revenue_efficiency.png)
-![Dashboard 2 Preview](dashboard/dashboard2_people_operations.png)
+![Dashboard 1 Preview](dashboard/dashboard1_revenue_efficiency.png.png)
+![Dashboard 2 Preview](dashboard/dashboard2_people_operations.png.png)
 
 ---
 ## Methodology Notes
